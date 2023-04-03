@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="1" total="2" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="61" started-at="2023-03-31T16:34:22 IST" finished-at="2023-03-31T16:34:22 IST">
+    <groups>
+      <group name="smoke">
+        <method signature="TS_02.test3()[pri:0, instance:Sample.TS_02@49e5f737]" name="test3" class="Sample.TS_02"/>
+      </group> <!-- smoke -->
+      <group name="ression">
+        <method signature="TS_02.test3()[pri:0, instance:Sample.TS_02@49e5f737]" name="test3" class="Sample.TS_02"/>
+      </group> <!-- ression -->
+    </groups>
+    <test name="Default test" duration-ms="61" started-at="2023-03-31T16:34:22 IST" finished-at="2023-03-31T16:34:22 IST">
+      <class name="Sample.TS_02">
+        <test-method status="PASS" signature="test3()[pri:0, instance:Sample.TS_02@49e5f737]" name="test3" duration-ms="16" started-at="2023-03-31T16:34:22 IST" finished-at="2023-03-31T16:34:22 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test3 -->
+      </class> <!-- Sample.TS_02 -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
